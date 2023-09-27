@@ -1,8 +1,8 @@
 # A Lecture for MVC
    
 ## Lessons Learned:
-    - Helps me solidify the programing paradigms and conceps 
-    - I aslo added the OOP(OBJECT ORIENTED PROGRAMING) here 
+- Helps me solidify the programing paradigms and conceps
+- I aslo added the OOP(OBJECT ORIENTED PROGRAMING) here 
 ## Basic Concepts: 
 - Understand the fundamental principles of MVC: Model, View, and Controller.
 -  Learn why separation of concerns is essential for software design.
