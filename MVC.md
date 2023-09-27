@@ -1,5 +1,4 @@
-	# MVC 
-MVC (MODEL VIEW CONTROLLER) is a pattern in software design commonly used to 
+ MVC (MODEL VIEW CONTROLLER) is a pattern in software design commonly used to 
 
 implement user interfaces, data, and controlling logic. It emphasize  a separation between
 the software's business logic  display. The "separation of concerns"  provide for a better division
@@ -11,25 +10,25 @@ The three parts of the MVC software-design pattern can be described as follows:
 2. View: Handles layout and display.
 3. Controller: Routes commands to the model and view parts.
 
-## [Model View Controller example](https://developer.mozilla.org/en-US/docs/Glossary/MVC#model_view_controller_example)
+## Model View Controller
 
 Imagine a simple shopping list app. All we want is a list of the name, quantity and price of each item we need to buy this week. Below we'll describe how we could implement some of this functionality using MVC.
 
 ![Diagram to show the different parts of the mvc architecture.](https://developer.mozilla.org/en-US/docs/Glossary/MVC/model-view-controller-light-blue.png)
 
-### [The Model](https://developer.mozilla.org/en-US/docs/Glossary/MVC#the_model)
+### The Model
 
 The model defines what data the app should contain. If the state of this data changes, then the model will usually notify the view (so the display can change as needed) and sometimes the controller (if different logic is needed to control the updated view).
 
 Going back to our shopping list app, the model would specify what data the list items should contain — item, price, etc. — and what list items are already present.
 
-### [The View](https://developer.mozilla.org/en-US/docs/Glossary/MVC#the_view)
+### [The View]
 
 The view defines how the app's data should be displayed.
 
 In our shopping list app, the view would define how the list is presented to the user, and receive the data to display from the model.
 
-### [The Controller](https://developer.mozilla.org/en-US/docs/Glossary/MVC#the_controller)
+### The Controller
 
 The controller contains logic that updates the model and/or view in response to input from the users of the app.
 

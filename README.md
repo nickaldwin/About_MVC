@@ -1,7 +1,7 @@
-# A Lecture for mvc
-
+# A Lecture for MVC
+   
 ## Lessons Learned:
-
+    - Helps me solidify the programing paradigms and conceps  
 ## Basic Concepts: 
 - Understand the fundamental principles of MVC: Model, View, and Controller.
 -  Learn why separation of concerns is essential for software design.
