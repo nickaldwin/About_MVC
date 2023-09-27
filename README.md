@@ -54,8 +54,8 @@
  # Evolution of MVC:
  - Stay up to date with the evolution of the MVC pattern and its adaptations in modern software development.
 
-   # Hands-On Projects:
-   -Build your own projects using MVC principles to solidify your knowledge.
+ # Hands-On Projects:
+ - Build your own projects using MVC principles to solidify your knowledge.
 
 
 
