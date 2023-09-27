@@ -71,7 +71,7 @@ After that, in JavaScript, we'll look at how constructors and the prototype chai
 
 Object-oriented programming is about modeling a system as a collection of objects, where each object represents some particular aspect of the system. Objects contain both functions (or methods) and data. An object provides a public interface to other code that wants to use it but maintains its own private, internal state; other parts of the system don't have to care about what is going on inside the object.
 
-## [Classes and instances](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming#classes_and_instances)
+## Classes and instances
 
 When we model a problem in terms of objects in OOP, we create abstract definitions representing the types of objects we want to have in our system. For example, if we were modeling a school, we might want to have objects representing professors. Every professor has some properties in common: they all have a name and a subject that they teach. Additionally, every professor can do certain things: they can all grade a paper and they can introduce themselves to their students at the start of the year, for example.
 
@@ -125,7 +125,7 @@ lillian.introduceSelf(); // 'My name is Professor Lillian and I will be your Poe
 
 This creates two objects, both instances of the `Professor` class.
 
-## [Inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming#inheritance)
+## Inheritance
 
 Suppose in our school we also want to represent students. Unlike professors, students can't grade papers, don't teach a particular subject, and belong to a particular year.
 
@@ -194,7 +194,7 @@ pratt.introduceSelf(); // 'My name is Pratt.'
 
 This feature - when a method has the same name but a different implementation in different classes - is called **polymorphism**. When a method in a subclass replaces the superclass's implementation, we say that the subclass **overrides** the version in the superclass.
 
-## [Encapsulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming#encapsulation)
+ Encapsulation
 
 Objects provide an interface to other code that wants to use them but maintain their own internal state. The object's internal state is kept **private**, meaning that it can only be accessed by the object's own methods, not from other objects. Keeping an object's internal state private, and generally making a clear division between its public interface and its private internal state, is called **encapsulation**.
 
@@ -247,7 +247,7 @@ student.year // error: 'year' is a private property of Student
 
 In languages that don't enforce access like this, programmers use naming conventions, such as starting the name with an underscore, to indicate that the property should be considered private.
 
-## [OOP and JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming#oop_and_javascript)
+## OOP and JavaScript
 
 In this article, we've described some of the basic features of class-based object-oriented programming as implemented in languages like Java and C++.
 
