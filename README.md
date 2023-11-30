@@ -1,4 +1,4 @@
-# A Lecture for MVC
+# Lecture for MVC
    
 ## Lessons Learned:
 - Helps me solidify the programing paradigms and conceps
