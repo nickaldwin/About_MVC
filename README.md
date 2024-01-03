@@ -1,4 +1,4 @@
-# Lecture for MVC
+# What is MVC?
    
  Lessons Learned:
 - Helps me solidify the programing paradigms and conceps
