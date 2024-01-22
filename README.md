@@ -51,6 +51,18 @@
     ### Patterns and Architectural Considerations:
    - Explore other software design patterns and architectural considerations that complement MVC, such as dependency injection, the repository pattern, and service layers.
 
+
+## Recent projects:
+Check my recent projects here:
+
+**Onlyfriends:** https://github.com/nickaldwin/Onlyfriends
+
+**Cucina** https://github.com/nickaldwin/cucina
+
+**Intelique** https://github.com/nickaldwin/IntelliQueue-
+
+
+
  
 
 
